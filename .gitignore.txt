@@ -1,0 +1,39 @@
+# .gitignore
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Secrets / credentials ---
+.env
+.env.*
+kaggle.json
+*.pem
+
+# --- Data ---
+# Remove the lines below if you want to commit the data instead of
+# having readers regenerate it.
+data/cleaned/*.csv
+data/raw/

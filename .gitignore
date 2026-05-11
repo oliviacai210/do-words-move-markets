@@ -24,3 +24,9 @@ data/cleaned/
 
 # Environment variables
 .env
+
+# JupyterLab / Anaconda artifacts
+.virtual_documents/
+anaconda_projects/
+Untitled*.ipynb
+*.gitignore.txt

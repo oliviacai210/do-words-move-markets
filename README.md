@@ -6,8 +6,7 @@ A systematic test of whether language from Donald Trump, Elon Musk, and U.S. pre
 
 > **TL;DR:** Language doesn't tell you *which way* the market will move (consistent with semi-strong-form Efficient Market Hypothesis), but it does carry signal about *how much* it will move. That makes public-figure text more useful as a volatility-monitoring input than a directional trading signal.
 
-![S&P 500 returns 2010 to 2023 with annotated public-figure tweet events](figures/returns_timeline.png)
-
+![S&P 500 returns 2010 to 2023 with annotated public-figure tweet events](figures/returns_timeseries.png)
 ---
 
 ## Why this project

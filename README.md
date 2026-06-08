@@ -170,7 +170,7 @@ The project report and code documentation that accompanied the academic submissi
 
 Strong interests in **data science, data/analytics engineering, and AI product management**.
 
-[LinkedIn](www.linkedin.com/in/oliviaelizabethcai) · [GitHub](https://github.com/oliviacai210) · [Email](mailto:oecai210@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oliviaelizabethcai) · [GitHub](https://github.com/oliviacai210) · [Email](mailto:oecai210@gmail.com)
 
 ---
 
